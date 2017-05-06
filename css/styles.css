@@ -1,0 +1,68 @@
+/* Color Palette 1
+.electric-lime { color: #58f21a; }
+.midnight-blue { color: #063955; }
+.bg-electric-lime { background-color: #58f21a; }
+.bg-midnight-blue { background-color: #063955; }
+*/
+
+/* Color Palette 2
+RICH BLACK (FOGRA39)
+#020202
+
+EERIE BLACK
+#1A181B
+DARK JUNGLE GREEN
+#0D2818
+
+UP FOREST GREEN
+#04471C
+
+NORTH TEXAS GREEN
+#058C42
+
+MALACHITE
+#16DB65
+*/
+
+/* Global Styles
+-------------------------*/
+body {
+
+}
+a{
+  color:red;
+}
+a:hover {
+  text-decoration: none;
+}
+
+.smalls {
+  max-width:10%;
+  max-height:10%;
+}
+
+
+  /* Header and Footer
+  -------------------------*/
+header, footer {
+  background: #020202;
+  color: #16DB65;
+}
+header h1, header h2{
+
+}
+
+
+  /* Work Experience
+  -------------------------*/
+.education {
+  background: #04471C;
+  color:#1A181B;
+}
+
+.work {
+  background: #058C42 ;
+}
+
+  /* Education
+  -------------------------*/
